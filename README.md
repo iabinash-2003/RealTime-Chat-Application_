@@ -4,7 +4,7 @@ Snappy is chat application build with the power of MERN Stack. You can find the 
 
 ![login page](https://github.com/iabinash-2003/RealTime-Chat-Application_/blob/main/snappy.png)
 
-![home page](./images/snappy.png)
+![home page]([./images/snappy.png](https://github.com/iabinash-2003/RealTime-Chat-Application_/blob/main/snappy.png))
 
 ## Installation Guide
 
